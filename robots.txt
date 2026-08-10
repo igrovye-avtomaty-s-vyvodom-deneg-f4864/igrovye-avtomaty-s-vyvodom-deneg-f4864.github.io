@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-s-vyvodom-deneg-f4864.github.io
+Sitemap: https://igrovye-avtomaty-s-vyvodom-deneg-f4864.github.io/sitemap.xml
